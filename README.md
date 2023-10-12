@@ -3,7 +3,7 @@
 CISCO Community VIT BHOPAL (ROUND 2)
 
 
-1. What is the purpose of IP addressing, and what are the differences between IPv4 and IPv6?
+a. What is the purpose of IP addressing, and what are the differences between IPv4 and IPv6?
 
 Ans : Internet Protocol (IP) addresses comprise numbers separated by several dots. IP addresses allow individuals to identify their locations easily, it also makes it easy to locate and send data to internet-connected devices, wherever they are.
 
@@ -20,11 +20,11 @@ In the case of IPv4 addressing no encryption or authentication services are init
 
 
 
-2. What do you think is the role of content in building and promoting a community, such as the CISCO Community? 
+b. What do you think is the role of content in building and promoting a community, such as the CISCO Community? 
 
 Ans : Content is the backbone of a community like the CISCO Community. It educates, engages, and attracts members while building the community's authority. It also helps solve problems, promotes the community, and gathers feedback for continuous improvement. In essence, content is vital for community growth and success. The right content will always get attention by people because when people can understand the idea, goals, motives and for what cause the community is working, the people can connect easily and start seeing themselves as part of the community which creates a sense of teamwork, mutual respect for every member, gives them the idea of purpose to fulfill which leads to growth and success of the community in which every single member is equally thankful for their contribution.
 
-3. Imagine you are a member of the CISCO Community at VIT Bhopal, and you need to develop a website for CISCO club integrating all the necessary features embedded in it.
+c. Imagine you are a member of the CISCO Community at VIT Bhopal, and you need to develop a website for CISCO club integrating all the necessary features embedded in it.
 
 Ans : To create a website that maximizes the potential of your CISCO community at our college and attracts more students while fostering a sense of community, consider the following features and creative ideas:
 
