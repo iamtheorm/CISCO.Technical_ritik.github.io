@@ -45,11 +45,23 @@
         .active {
             display: block;
         }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+        }
+        footer a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 10px;
+        }
     </style>
 </head>
 <body>
     <header>
         <h1>Your Cisco Community</h1>
+        <p>Welcome to the Community!<br> The Community is a hub for connecting with your peers and Cisco specialists to ask for help, share your expertise, build your network, and grow professionally.</p>
         <nav>
             <ul>
                 <li><a href="#home">Home</a></li>
@@ -98,6 +110,14 @@
         <p>Have questions or feedback? Get in touch with us through the provided contact information.</p>
     </div>
 
+    <footer>
+        <a href="#">Community Feedback</a>
+        <a href="#">Terms and Conditions</a>
+        <a href="#">Privacy Statement</a>
+        <a href="#">Help</a>
+        <img src="cisco-logo.png" alt="Cisco Logo" width="100">
+    </footer>
+    
     <script>
         // JavaScript to handle tab switching
         const tabs = document.querySelectorAll("nav a");
