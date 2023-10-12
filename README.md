@@ -100,7 +100,7 @@
         <p>Stay updated on upcoming Cisco-related events, workshops, and seminars.</p>
     </div>
 
-    <div class="tab-content" id="member-stories">
+    <div class "tab-content" id="member-stories">
         <h2>Member Stories</h2>
         <p>Read inspiring stories and experiences shared by our Cisco community members.</p>
     </div>
